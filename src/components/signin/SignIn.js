@@ -46,6 +46,7 @@ class SignIn extends React.Component{
                      <CustomButton type='submit'> Sign In </CustomButton>
                      <GoogleButton
                         onClick={signInWithGoogle}
+                        label='Sign In With Google'
                         style={{marginLeft: '16px'}}
                     />
                     </div>
