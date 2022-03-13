@@ -47,7 +47,7 @@ class SignIn extends React.Component{
                      <GoogleButton
                         onClick={signInWithGoogle}
                         label='Sign In With Google'
-                        style={{marginLeft: '16px'}}
+                        style={{marginLeft: '14px'}}
                     />
                     </div>
                 </form>
